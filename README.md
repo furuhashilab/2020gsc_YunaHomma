@@ -69,7 +69,9 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 <img width="186" alt="ポップアップ表示" src="https://user-images.githubusercontent.com/40257255/105444879-09021e80-5cb2-11eb-81b2-af2f5eb93e5d.PNG">
 
 ## 動画
-ルート７　movie①世田谷区役所→松原四丁目→松原一丁目→羽根木二丁目
+
+(https://drive.google.com/file/d/1nCBB5Yrjn0LrCHM2Sp_oYHN8S_n6t_cs/view?usp=sharing)
+
 
 ルート７　movie②大原一丁目→北沢五丁目→北沢四丁目→世田谷区役所
 
