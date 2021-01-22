@@ -57,6 +57,7 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 <img width="520" alt="帰宅困難者　主要道路　ルート　geojsonio" src="https://user-images.githubusercontent.com/40257255/105443974-5087ab00-5cb0-11eb-9b9d-356d2659a7a4.PNG">
 
 
+
 ## 主要駅のgeojson.io
 <img width="571" alt="帰宅困難者　主要駅　帰宅困難者支援施設　geojson" src="https://user-images.githubusercontent.com/40257255/105444386-136fe880-5cb1-11eb-82d5-db882338e3ab.PNG">
 
@@ -65,6 +66,9 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 <img width="471" alt="木蜜地域　ルートgeojson" src="https://user-images.githubusercontent.com/40257255/105444637-8d07d680-5cb1-11eb-8a49-5ea463105523.PNG">
 
 ## ポップアップ
+<img width="186" alt="ポップアップ表示" src="https://user-images.githubusercontent.com/40257255/105444879-09021e80-5cb2-11eb-81b2-af2f5eb93e5d.PNG">
+
+## 動画
 
 
 
