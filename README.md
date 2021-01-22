@@ -53,7 +53,13 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 
 
 # Result
-## 徒歩帰宅支援対象道路
+## 徒歩帰宅支援対象道路geojson.io
+<img width="520" alt="帰宅困難者　主要道路　ルート　geojsonio" src="https://user-images.githubusercontent.com/40257255/105443974-5087ab00-5cb0-11eb-9b9d-356d2659a7a4.PNG">
+
+## 主要駅のgeojson.io
+
+## 火災危険度の高レベルの地域のgeojson.io
+
 
 
 
