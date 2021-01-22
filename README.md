@@ -74,7 +74,8 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 ルート７　movie②大原一丁目→北沢五丁目→北沢四丁目→世田谷区役所
 
 
-# discussion
+# Discussion and Conclusion 
+事前に動画や地図にして視覚化することで、地震時にドローンを
 
 
 
