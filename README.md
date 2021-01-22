@@ -62,6 +62,7 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 
 
 ## 火災危険度の高レベルの地域のgeojson.io
+<img width="471" alt="木蜜地域　ルートgeojson" src="https://user-images.githubusercontent.com/40257255/105444637-8d07d680-5cb1-11eb-8a49-5ea463105523.PNG">
 
 
 
