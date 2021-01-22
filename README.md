@@ -47,12 +47,14 @@
 **ルート８**世田谷区所→経堂二丁目→船橋一丁目→上祖師谷４丁目→世田谷区役所
 
 
-## Google Earth Studioでシミュレーション動画の作成
+## 2.Google Earth Studioでシミュレーション動画の作成
 geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルートを映像にする。
 
 
 
 # Result
+## 徒歩帰宅支援対象道路
+
 
 
 
