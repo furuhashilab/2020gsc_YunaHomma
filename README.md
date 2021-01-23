@@ -85,6 +85,9 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 # プレゼン
 (https://docs.google.com/presentation/d/1IQVuFpj0aJmEi_WmCHNYg1_b06u-U7E_KXm1IONtqfc/edit#slide=id.p)
 
+# 進捗管理用プロジェクト
+
+
 
 
 
