@@ -74,7 +74,7 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 ルート７　movie②大原一丁目→北沢五丁目→北沢四丁目→世田谷区役所
 (https://drive.google.com/file/d/1WGhAZ0wKJ-v_LMu6VjtnitIpJviP9yyc/view?usp=sharing)
  
-上記はGoogle Earth Studioで作成したシミュレーション動画だ。その他の動画はkmlファイルにyoutubeのリンクが添付されている。
+上記はGoogle Earth Studioで作成したシミュレーション動画だ。その他の動画はkmlファイルにGoogle Driveのリンクが添付されている。
 
 # 考察・まとめ
 ルートを動画や地図にして視覚化することで、地震時にドローンをどう飛ばすべきか事前に把握することができ、迷いなく飛ばせるので迅速な情報収集が出来ることが分かる。さらにgeojson.io上で効率的なルートを作成することでより素早い対応になることも期待できる。また、Google Earth Studioで高度150ｍの高さで飛ばそうとした場合、ビルに衝突する可能性も確認できたので、事故の防止にも繋がる。これらのことからシミュレーション動画を作成するこの研究を通して、実際の地震時同様の動きを明確にでき、対策を練ることが可能と分かった。
