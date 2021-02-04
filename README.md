@@ -45,8 +45,9 @@
 
 **ルート８**世田谷区所→経堂二丁目→船橋一丁目→上祖師谷４丁目→世田谷区役所
 
+## 2.KML形式でgeojson.ioをGoogle Earth Studioにインポート
 
-## 2.Google Earth Studioでシミュレーション動画の作成
+## 3.Google Earth Studioでシミュレーション動画の作成
 geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルートを映像にする。
 
 
@@ -83,10 +84,14 @@ geojson.ioで作成した地図を基にGoogle Earth Studioでドローンルー
 本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
 
 # プレゼン
-(https://docs.google.com/presentation/d/1IQVuFpj0aJmEi_WmCHNYg1_b06u-U7E_KXm1IONtqfc/edit#slide=id.p)
+(https://docs.google.com/presentation/d/e/2PACX-1vS0Jg-aZhjzIH_41sYIKM0PvMqZVeTaXOcZFtvrJEKomjT9ZFMqriJhOugOprtvMTutizOH3D_gYc_6/pub?start=false&loop=false&delayms=3000)
 
 # 進捗管理用プロジェクト
 (https://github.com/furuhashilab/sotsuron2020/projects/20)
+
+# 参考文献
+(https://docs.google.com/document/d/1UymaFtxnBopRSOId5nLjGKuH9JRI8Oudf48EBCe9cLU/edit)
+
 
 
 
